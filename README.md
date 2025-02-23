@@ -13,7 +13,7 @@ The primary objectives are to develop a model to classify bird strike incidents,
 damage risks, optimize costs by targeting high-risk scenarios, and support regulatory compliance through 
 data-driven risk assessments.
 
-📊 Exploratory Data Analysis (EDA) Insights
+📊 Exploratory Data Analysis (EDA) Insights: 
 ✔ Most bird strikes do not cause damage, but severe cases exist.
 ✔ Takeoff & landing are the most vulnerable flight phases.
 ✔ Larger birds like Canada Goose pose higher risks.
